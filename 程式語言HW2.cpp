@@ -1,6 +1,5 @@
 #include <iostream>
 #include <time.h>
-#include <stack>
 #define bignumber 50000
 using namespace std;
 void statically_array()
